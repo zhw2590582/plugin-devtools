@@ -1,2 +1,2 @@
-# Plugin Devtools
+# Plugins Devtools
 最近要完成100个插件，但每次写Demo都要配置一遍，重点是还不能动态修改插件参数，所以整了这个插件开发者工具。
